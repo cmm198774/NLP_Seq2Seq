@@ -1,0 +1,9 @@
+$RECYCLE.BIN/
+*.log
+.vscode/
+raw_data/
+scripts/
+.ipynb_checkpoints/
+checkpoint/
+weight/
+*.key
